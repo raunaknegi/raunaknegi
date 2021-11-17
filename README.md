@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunaknegi&label=Profile%20views&color=0e75b6&style=flat" alt="raunaknegi" /> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Natural Language Processing** and **Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://raunaknegi.netlify.app](https://raunaknegi.netlify.app)
 
